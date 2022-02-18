@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\WISER\Wiser_WEB_API\Wiser_WEB_API\bin\Debug\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-04-17T06:19:12.6395790Z;True|2021-04-14T12:11:31.9498393+05:30;True|2021-04-14T11:58:53.7503650+05:30;True|2021-04-14T11:35:27.4536627+05:30;True|2021-04-14T11:27:06.7123175+05:30;True|2021-04-14T11:18:18.9345120+05:30;True|2021-04-14T11:15:07.7464789+05:30;True|2021-04-14T11:14:56.1293167+05:30;</History>
+  </PropertyGroup>
+</Project>
